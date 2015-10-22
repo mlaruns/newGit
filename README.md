@@ -1,0 +1,3 @@
+# newGit
+Reflections
+Read 
